@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTickets" type="id">Tickets</item>
+    <item name="btnCost" type="id">Cost</item>
+</resources>
